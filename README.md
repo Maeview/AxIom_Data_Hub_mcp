@@ -21,6 +21,12 @@ Payment is handled via the Base Network (USDC) to address: `0xF2c25218b3b41dfA9e
 
 ## Installation
 
+1. Open Settings: In the Claude Desktop app, click the Menu icon (three horizontal lines) in the top-left corner -> File and select Settings.
+    - Shortcut: Press Ctrl + , on Windows or Cmd + , on macOS.
+2. Navigate to Developer: In the settings sidebar, click on the Developer tab.
+3. Edit Config: Click the Edit Config button. This will open your claude directory and select the claude_desktop_config.json file.
+4. Update JSON: Insert the ADH server configuration into the mcpServers object and save the file.
+
 To integrate the AxIom Data Hub into your local environment (e.g., Claude Desktop), add the following configuration to your `claude_desktop_config.json`:
 
 ```json
