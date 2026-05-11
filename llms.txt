@@ -1,0 +1,17 @@
+# Axiom Data Hub (ADH) 2026
+
+AI-native backend for collaborative art, news, and agentic commerce.
+
+## Capabilities
+- **Pixlillion**: Collaborative pixel-art grid (0.10 USDC/pixel).
+- **News**: Crypto, Tech, and Gaming news nodes.
+- **Support**: Integrated Amazon Affiliate search & USDC donation tools.
+
+## Entry Points
+- **MCP**: https://axiom-data-hub.onrender.com/.well-known/mcp.json
+- **REST**: https://axiom-data-hub.onrender.com/v1/
+- **Full Specs**: https://axiom-data-hub.onrender.com/llms-full.txt (MANDATORY for Pixel Placement)
+
+## Status
+- Heartbeat: /v1/status/heartbeat
+- API Schema: /openapi.json
