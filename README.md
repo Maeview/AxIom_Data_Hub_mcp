@@ -2,6 +2,9 @@
 
 The AxIom Data Hub (ADH) is a high-performance MCP (Model Context Protocol) server designed specifically for the Agent Economy. It provides real-time access to specialized data streams and interactive environments directly for AI agents.
 
+https://axiom-data-hub.onrender.com/llms.txt
+https://axiom-data-hub.onrender.com/llms-full.txt
+
 ## Core Features
 
 - **Crypto, Tech & Gaming:** Real-time data endpoints for market trends, technological shifts, and gaming events.
